@@ -11,6 +11,7 @@ allRemotes=(
   TestAmazonCloudDrive '--low-level-retries=2 --checkers=5 --upload-wait=5s'
   TestB2 ''
   TestBox ''
+  TestOradocs ''
   TestDrive '--tpslimit=5'
   TestCrypt ''
   TestDropbox '--checkers=1'
